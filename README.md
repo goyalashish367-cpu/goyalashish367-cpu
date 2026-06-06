@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyber-workspace.png" width="100%" alt="Cyber workspace — pixel art hacker setup"/>
+<img src="./assets/cyber-workspace.png" width="700" alt="Cyber workspace — pixel art hacker setup"/>
 
 <br/>
 
